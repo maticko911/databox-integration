@@ -13,7 +13,6 @@ To aplikacijo omogoča zajem in pošiljanje metrik iz različnih virov v Databox
 ## Zahteve
 - Node.js (priporočena verzija: 16 ali novejša)
 - NPM
-- Databox račun (uporabljen e-mail: `your-databox-email@example.com`)
 
 ## Namestitev
 1. Kloniraj repozitorij:
