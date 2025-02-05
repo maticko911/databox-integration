@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-02-05T17:16:44.047Z",
+  "service": "Databox",
+  "metricsSentToDatabox": {
+    "weather": {
+      "temperature": "3.19",
+      "humidity": 70,
+      "windSpeed": 0.51,
+      "condition": "Clouds",
+      "pressure": 1036
+    },
+    "github": {
+      "repositories": 13,
+      "followers": 0,
+      "commits": 20,
+      "stars": 0,
+      "watchers": 0
+    }
+  },
+  "numberOfKPIsSent": 2,
+  "sendingSuccessful": "",
+  "errorMessage": ""
+}
